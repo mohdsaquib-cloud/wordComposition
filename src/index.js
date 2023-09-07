@@ -23,7 +23,6 @@ fs.readdir(directoryPath, (err, files) => {
         result.longestConcatWords[1]
       );
       console.log("Execution Time:", result.executionTimeMs, "milliseconds\n");
-      process.exit();
     } catch (error) {
       console.error(error.message);
     }
