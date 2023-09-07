@@ -56,7 +56,3 @@ This will execute the compounded word finding algorithm and display the results.
 # npm run test
 
 3. **Testing**: You can run tests using the command `npm run test`:
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the standard GitHub fork and pull request workflow.
